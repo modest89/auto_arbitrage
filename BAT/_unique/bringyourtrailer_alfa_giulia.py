@@ -104,7 +104,7 @@ print("Data scraping complete. Saving to CSV...")
 df = pd.DataFrame(all_products)
 
 # Specify the folder path where you want to save the CSV file
-folder_path = r"C:\Users\Modest\OneDrive\_With Modest (ONLY)\Various\Power Bi\BAT\Bat Data"
+folder_path = r""
 
 # Generate the filename with the current date
 date_suffix = datetime.now().strftime("%m%d%Y")
